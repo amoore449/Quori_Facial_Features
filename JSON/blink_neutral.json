@@ -1,0 +1,235 @@
+{
+	"transitionTime": 0.3,
+	"numberStills": 6,
+	"my_background": "images/background.jpg",
+	"Brows": {
+		"leftBrow": [{
+				"file": "images/left_brow/neutral.png",
+				"x_multiplier": 0.25,
+				"y_multiplier": 0.2,
+				"scale_factor": 0.3,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/left_brow/upper/1.png"
+			}
+		],
+		"rightBrow": [{
+				"file": "images/right_brow/neutral.png",
+				"x_multiplier": 0.5,
+				"y_multiplier": 0.2,
+				"scale_factor": 0.3,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/right_brow/upper/1.png"
+			}
+		]
+	},
+	"leftEyesStills": {
+		"Pupil": [{
+			"file": "images/pupil.png",
+			"x_multiplier": 0.34,
+			"y_multiplier": 0.33,
+			"scale_factor": 0.45,
+			"rotation_factor": 0
+		}],
+		"Spot": [{
+			"file": "images/spot.png",
+			"x_multiplier": 0.39,
+			"y_multiplier": 0.37,
+			"scale_factor": 0.05,
+			"rotation_factor": 0
+		}],
+		"Lid": [{
+				"file": "images/1.png",
+				"x_multiplier": 0.3,
+				"y_multiplier": 0.3,
+				"scale_factor": 0.45,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/2.png",
+				"x_multiplier": 0.3,
+				"y_multiplier": 0.3,
+				"scale_factor": 0.45,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/3.png",
+				"x_multiplier": 0.3,
+				"y_multiplier": 0.3,
+				"scale_factor": 0.45,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/4.png",
+				"x_multiplier": 0.3,
+				"y_multiplier": 0.3,
+				"scale_factor": 0.45,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/5.png"
+			},
+			{
+				"file": "images/6.png"
+			},
+			{
+				"file": "images/5.png"
+			}, {
+				"file": "images/4.png"
+			},
+			{
+				"file": "images/3.png"
+			},
+			{
+				"file": "images/2.png"
+			},
+			{
+				"file": "images/1.png"
+			}
+		]
+	},
+	"Mouth": {
+		"Upper_Lip": [{
+				"file": "images/Mouth/neutral.png",
+				"x_multiplier": 0.4,
+				"y_multiplier": 0.5,
+				"scale_factor": 0.6,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/Mouth/neutral.png",
+				"x_multiplier": 0.4,
+				"y_multiplier": 0.5,
+				"scale_factor": 0.6,
+				"rotation_factor": 0
+			}
+		],
+		"Lower_Lip": [{
+				"file": "images/Mouth/neutral.png",
+				"x_multiplier": 0.4,
+				"y_multiplier": 0.5,
+				"scale_factor": 0.6,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/Mouth/neutral.png",
+				"x_multiplier": 0.4,
+				"y_multiplier": 0.5,
+				"scale_factor": 0.6,
+				"rotation_factor": 0
+			}
+		]
+	},
+	"rightEyesStills": {
+		"Pupil": [{
+				"file": "images/pupil.png",
+				"x_multiplier": 0.55,
+				"y_multiplier": 0.33,
+				"scale_factor": 0.4,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/pupil.png",
+				"x_multiplier": 0.55,
+				"y_multiplier": 0.33,
+				"scale_factor": 0.4,
+				"rotation_factor": 0
+			}
+		],
+		"Spot": [{
+			"file": "images/spot.png",
+			"x_multiplier": 0.6,
+			"y_multiplier": 0.33,
+			"scale_factor": 0.05,
+			"rotation_factor": 0
+		}, {
+			"file": "images/spot.png",
+			"x_multiplier": 0.6,
+			"y_multiplier": 0.33,
+			"scale_factor": 0.05,
+			"rotation_factor": 0
+		}],
+		"Lid": [{
+				"file": "images/right/1.png",
+				"x_multiplier": 0.5,
+				"y_multiplier": 0.3,
+				"scale_factor": 0.45,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/right/2.png",
+				"x_multiplier": 0.5,
+				"y_multiplier": 0.3,
+				"scale_factor": 0.45,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/right/3.png",
+				"x_multiplier": 0.5,
+				"y_multiplier": 0.3,
+				"scale_factor": 0.45,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/right/4.png",
+				"x_multiplier": 0.5,
+				"y_multiplier": 0.3,
+				"scale_factor": 0.45,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/right/5.png",
+				"x_multiplier": 0.5,
+				"y_multiplier": 0.3,
+				"scale_factor": 0.45,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/right/6.png",
+				"x_multiplier": 0.5,
+				"y_multiplier": 0.3,
+				"scale_factor": 0.45,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/right/5.png",
+				"x_multiplier": 0.5,
+				"y_multiplier": 0.3,
+				"scale_factor": 0.45,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/right/4.png",
+				"x_multiplier": 0.5,
+				"y_multiplier": 0.3,
+				"scale_factor": 0.45,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/right/3.png",
+				"x_multiplier": 0.5,
+				"y_multiplier": 0.3,
+				"scale_factor": 0.45,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/right/2.png",
+				"x_multiplier": 0.5,
+				"y_multiplier": 0.3,
+				"scale_factor": 0.45,
+				"rotation_factor": 0
+			},
+			{
+				"file": "images/right/1.png",
+				"x_multiplier": 0.5,
+				"y_multiplier": 0.3,
+				"scale_factor": 0.45,
+				"rotation_factor": 0
+			}
+
+		]
+	}
+}
