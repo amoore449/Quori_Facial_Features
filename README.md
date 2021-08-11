@@ -22,7 +22,7 @@ Reference the guide for getting started with Quori and VirtualBox and VMware [he
 ## Running Facial Features
 
 1. cd into your quori_files repository
-2. run ``` rosrun quori_gazebo Image_Processing.py JSON_FILE_NAME.json````
+2. run ``` rosrun quori_gazebo Image_Processing.py JSON_FILE_NAME.json```
 
 # Positioning Facial Features
 In each frame of a facial feature, five features can be specified: file, x_multiplier, y_multiplier, scale_factor, and rotation_factor.
