@@ -19,6 +19,11 @@ Reference the guide for getting started with Quori and VirtualBox and VMware [he
 6. python3 -m pip install opencv-python
 7. Make sure to switch to the branch you want to be working on before making any changes
 
+## Running Facial Features
+
+1. cd into your quori_files repository
+2. run ``` rosrun quori_gazebo Image_Processing.py JSON_FILE_NAME.json````
+
 # Positioning Facial Features
 In each frame of a facial feature, five features can be specified: file, x_multiplier, y_multiplier, scale_factor, and rotation_factor.
 - file: Specifies the file path to the file path for a given image
